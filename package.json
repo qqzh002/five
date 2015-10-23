@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/qqzh002/five/issues"
   },
-  "homepage": "https://github.com/qqzh002/five#readme"
+  "homepage": "https://github.com/qqzh002/five#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
 }
